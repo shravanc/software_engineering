@@ -1,0 +1,13 @@
+Select First 1000 columns:
+https://console.cloud.google.com/bigquery?sq=230763785582:83bad06c87e14d92981210f462722461
+
+Model Creation:
+https://console.cloud.google.com/bigquery?sq=230763785582:92d1b9c7d16a4e2cb77d800763f25442
+
+Model Evaluation:
+https://console.cloud.google.com/bigquery?sq=230763785582:92d1b9c7d16a4e2cb77d800763f25442
+
+Model Prediction:
+https://console.cloud.google.com/bigquery?sq=230763785582:a6c2676dae694ce3ac9a600374c1c09c
+
+

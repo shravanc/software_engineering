@@ -1,0 +1,33 @@
+CNN 
+- image recognition
+- automatic feature seletion
+
+
+RNN
+- sequential data
+- translation
+- speech recognition
+- sentiment analysis
+- auto suggestion
+
+RBM
+- unsupervised model
+- automatically extract the meaningful 
+- feature extraction
+- pattern recognition
+- recommender system
+- dimensionality reduction
+- handling missing values
+
+DBM
+- classification same as mlp (multi-layer perceptron)
+- image recognition
+- very accurate discriminative classifier
+
+Autoencoders
+- recrete a given inputs
+- unspervised tasks
+- dimensionality reduction
+- feaute extraction
+- image recognition
+
